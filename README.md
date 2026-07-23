@@ -37,8 +37,7 @@ Python · TensorFlow/Keras · Scikit-learn (SVM, Random Forest, Naive Bayes) · 
 
 ## Autoría
 
-Trabajo grupal — Máster en Bioinformática (UNIR):
-Samuel Salazar Diaz, Samuel David Espitia Contreras, Luisa Ospina Londoño, Miller Esneyder Vargas Santiago.
+Samuel David Espitia Contreras.
 
 ## Licencia
 
